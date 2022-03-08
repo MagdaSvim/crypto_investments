@@ -11,8 +11,6 @@ For this project we use the following tools:
 
 * [JupyterLab](https://github.com/jupyterlab/jupyterlab) - an extensible environment for interactive and reproducible computing, based on the Jupyter Notebook and Architecture
 
-* [Python - sqlalchemy](https://www.sqlalchemy.org/) - a library that facilitates the communication between Python programs and databases
-
 * [pandas](https://github.com/pandas-dev/pandas) - is a Python package that provides fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive 
 
 * [hvplot](https://hvplot.holoviz.org/) - hvPlot provides an alternative for the static plotting API provided by Pandas and other libraries
